@@ -1,0 +1,10 @@
+
+    ********** Resultados da Pesquisa **********
+
+    Total de pessoas desenvolvedoras Backend: 2 (40.0%)
+    Total de Mulheres (Cis/Trans) em Frontend: 1 (20.0%)
+    Total de Homens (Cis/Trans) em Mobile com mais de 40 anos: 0 (0.0%)
+    Total de Não Binários em FullStack com menos de 30 anos: 0 (0.0%)
+
+    Total geral de participantes: 5
+    Média de idade dos participantes: 28.60 anos
